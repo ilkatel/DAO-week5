@@ -1,0 +1,14 @@
+.env
+coverage
+node_modules
+cache
+artifacts
+package-lock.json
+typechain
+
+.eslintignore
+.npmignore
+.prettierignore
+.solhintignore
+
+ignore
